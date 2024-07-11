@@ -34,11 +34,11 @@ Each key in the JSON object is a non-standard word or phrase, and the correspond
 ```
 ## Dictionary Statistics
 
-- **Total words**: 3506
-- **Words with 1 value**: 3320
-- **Words with 2 values**: 150
-- **Words with 3 values**: 23
-- **Words with more than 3 values**: 13
+- **Total number of NSWs**: 3506
+- **NSWs with 1 normalized term (1-1 mapping)**: 3320
+- **NSWs with 2 normalized terms (1-2 mapping)**: 150
+- **NSWs with 3 normalized terms (1-3 mapping)**: 23
+- **NSWs with more than 3 normalized terms**: 13
 
 ## Dictionary Extraction Process
 
