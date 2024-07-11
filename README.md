@@ -58,12 +58,12 @@ This dictionary can be used in various NLP tasks, such as:
 
 ## Installation
 
-To use this dictionary in your project, simply download the `dictionary.json` file and load it using your preferred JSON parser. For example, in Python, you can use the `json` module:
+To use this dictionary in your project, simply download the `vi-nsw-dict.json` file and load it using your preferred JSON parser. For example, in Python, you can use the `json` module:
 
 ```python
 import json
 
-with open('dictionary.json', 'r', encoding='utf-8') as f:
+with open('vi-nsw-dict.json', 'r', encoding='utf-8') as f:
     dictionary = json.load(f)
 
 print(dictionary)
