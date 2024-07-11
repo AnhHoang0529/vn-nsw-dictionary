@@ -79,8 +79,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 ## Contact
 
-For any questions or suggestions, please contact [your name or email].
-
----
-
-This `README.md` provides an overview of the dictionary, its format, usage, installation, contribution guidelines, license, and contact information. You can modify it as needed to fit your specific requirements.
+For any questions or suggestions, please contact 20520134@gm.uit.edu.vn or 20520165@gm.uit.edu.vn.
